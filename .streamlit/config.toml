@@ -1,0 +1,70 @@
+# AI 코딩 어시스턴트 대시보드 — 투자 설명회 스타일 다크 테마
+# financial-dashboard 템플릿 기반, AI/인디고 악센트로 조정
+
+[theme]
+base = "dark"
+primaryColor = "#818CF8"             # 인디고 (AI 액센트)
+backgroundColor = "#0B1120"          # 딥 네이비
+secondaryBackgroundColor = "#161E2E" # 카드/사이드바 배경
+codeBackgroundColor = "#161E2E"
+textColor = "#F1F5F9"
+linkColor = "#818CF8"
+borderColor = "#2A3548"
+codeTextColor = "#CBD5E1"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "10px"
+
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+headingFont = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@600;700;800&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+baseFontWeight = 400
+codeFontSize = "13px"
+headingFontSizes = ["30px", "23px", "19px", "16px", "14px", "12px"]
+headingFontWeights = [800, 700, 600, 600, 500, 500]
+linkUnderline = false
+
+greenColor = "#34D399"
+redColor = "#F87171"
+yellowColor = "#FBBF24"
+orangeColor = "#FB923C"
+blueColor = "#60A5FA"
+violetColor = "#A78BFA"
+grayColor = "#94A3B8"
+
+chartCategoricalColors = [
+    "#818CF8",
+    "#34D399",
+    "#FB923C",
+    "#60A5FA",
+    "#F472B6",
+    "#FBBF24",
+    "#94A3B8",
+    "#A78BFA",
+]
+
+chartSequentialColors = [
+    "#1E1B4B",
+    "#312E81",
+    "#3730A3",
+    "#4338CA",
+    "#4F46E5",
+    "#6366F1",
+    "#818CF8",
+    "#A5B4FC",
+    "#C7D2FE",
+    "#E0E7FF",
+]
+
+dataframeBorderColor = "#2A3548"
+dataframeHeaderBackgroundColor = "#161E2E"
+
+[theme.sidebar]
+backgroundColor = "#070C17"
+secondaryBackgroundColor = "#161E2E"
+codeBackgroundColor = "#161E2E"
+textColor = "#F1F5F9"
+borderColor = "#2A3548"
+primaryColor = "#818CF8"
