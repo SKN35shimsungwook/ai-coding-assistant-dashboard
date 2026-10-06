@@ -2,6 +2,10 @@
 
 Claude Code, OpenAI Codex, Google Gemini/Antigravity, Cursor, GitHub Copilot, Cognition Devin, Replit Agent, AWS Kiro와 오픈웨이트 도전자(DeepSeek, GLM, Qwen, Grok)를 2026년 9월 기준으로 비교하는, 투자 설명회(피치덱) 스타일의 Streamlit 대시보드입니다.
 
+![표지와 목차: 도구 10개 이상, 12개 세션, 66개 슬라이드](docs/images/dashboard_home.png)
+
+![기능·성능 비교: SWE-bench Verified 점수를 모델별로 비교한 슬라이드](docs/images/dashboard_compare.png)
+
 ## 담긴 내용
 
 - **12개 세션 / 66개 슬라이드** — 각 Streamlit 페이지 안에서 슬라이드 덱처럼 이전/다음/슬라이드 이동으로 넘겨볼 수 있습니다
