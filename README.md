@@ -1,5 +1,7 @@
 # AI 코딩 어시스턴트 대시보드 (2026)
 
+**🔗 바로 실행해 보기:** https://ai-coding-assistant-dashboard.streamlit.app
+
 Claude Code, OpenAI Codex, Google Gemini/Antigravity, Cursor, GitHub Copilot, Cognition Devin, Replit Agent, AWS Kiro와 오픈웨이트 도전자(DeepSeek, GLM, Qwen, Grok)를 2026년 9월 기준으로 비교하는, 투자 설명회(피치덱) 스타일의 Streamlit 대시보드입니다.
 
 ![표지와 목차: 도구 10개 이상, 12개 세션, 66개 슬라이드](docs/images/dashboard_home.png)
